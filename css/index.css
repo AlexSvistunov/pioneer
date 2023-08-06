@@ -112,6 +112,7 @@
 .plant__text {
 	display: flex;
 	margin-bottom: var(--gap);
+	align-items: center;
 }
 
 .plant__title {
